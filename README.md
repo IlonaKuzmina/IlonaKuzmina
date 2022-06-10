@@ -29,7 +29,7 @@ Design reproduction using css, html and typescript.
 ![Landing_page_TS](https://user-images.githubusercontent.com/98387598/173151480-6106eebf-1a89-41c6-a58c-5df5c2c61dd0.gif)
 <hr>
 
-Rick and Morty! I created the website using ROUTER and API.
+Rick and Morty! Website using ROUTER and API.
 <br><br>
 ![API_and_ROUTER](https://user-images.githubusercontent.com/98387598/173153160-d6d476c1-6b26-4aea-bef6-aa27f78ef5f3.gif)
 <hr>
