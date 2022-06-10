@@ -16,7 +16,7 @@ Languages and tools that I use:
 <img src="https://user-images.githubusercontent.com/98387598/173137653-13a382e7-9414-4b07-a473-bf0254f9fa6d.png" alt="Git" width="50">
 <img src="https://user-images.githubusercontent.com/98387598/173137785-3bd2af3f-b9dc-4a3e-b283-d61bedc88d3f.png" alt="GitHub" width="50">
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlonaKuzmina)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **IlonaKuzmina/IlonaKuzmina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
