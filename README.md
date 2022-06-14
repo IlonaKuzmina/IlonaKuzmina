@@ -20,7 +20,7 @@ After almost ten years of work experience in managing employees, I’ve decided 
 
 ### My favorite projects: 
 
-Design reproduction using css, html and typescript.
+<a href="https://github.com/IlonaKuzmina/9MD_Landing_page_ar_TS.git">Design reproduction using css, html and typescript.</a>
 <img src="https://user-images.githubusercontent.com/98387598/173136625-6c202712-1ad5-4ee8-b833-4697d3c08ac0.png" alt="JavaScript" width="20">
 <img src="https://user-images.githubusercontent.com/98387598/173136827-c4d608a6-a76e-46f5-889a-674d39e2b352.png" alt="TypeScript"  width="20"> 
 <img src="https://user-images.githubusercontent.com/98387598/173138225-9f3452ae-e7c3-4328-8571-297e34d5d38a.png" alt="CSS" width="20">
@@ -29,12 +29,14 @@ Design reproduction using css, html and typescript.
 ![Landing_page_TS](https://user-images.githubusercontent.com/98387598/173151480-6106eebf-1a89-41c6-a58c-5df5c2c61dd0.gif)
 <hr>
 
-Rick and Morty! Website using ROUTER and API.
+
+<a href="https://github.com/IlonaKuzmina/17MD_un_18MD_API.git">Rick and Morty! Website using ROUTER and API.</a>
 <br><br>
 ![API_and_ROUTER](https://user-images.githubusercontent.com/98387598/173153160-d6d476c1-6b26-4aea-bef6-aa27f78ef5f3.gif)
 <hr>
 
-Small Pokemon_API.
+
+<a href="https://github.com/IlonaKuzmina/22MD_Pokemon-API.git">Small Pokemon_API.</a>
 <img src="https://user-images.githubusercontent.com/98387598/173136992-9d071e94-15b8-44a0-a640-9d4a7f52b375.png" alt="React" width="20">
 <img src="https://user-images.githubusercontent.com/98387598/173137108-69358071-f159-4770-9688-794a1fbbd7ff.png" alt="Redux" width="20">
 <br><br>
@@ -42,6 +44,7 @@ Small Pokemon_API.
 <hr>
 
 Form with validation. 
+<a href="https://github.com/IlonaKuzmina/Sandra_uzdotais_MD.git">Form with validation.</a>
 <img src="https://user-images.githubusercontent.com/98387598/173136992-9d071e94-15b8-44a0-a640-9d4a7f52b375.png" alt="React" width="20">
 <br><br>
 ![form_with_validation](https://user-images.githubusercontent.com/98387598/173155481-7f8c56be-74cc-4a67-891d-10449d3de3f9.gif)
