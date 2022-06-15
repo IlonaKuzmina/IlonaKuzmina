@@ -43,7 +43,6 @@ After almost ten years of work experience in managing employees, I’ve decided 
 ![Pokemon_API](https://user-images.githubusercontent.com/98387598/173154406-c8b46fd2-9f3b-44a0-baba-1c6568e5c045.gif)
 <hr>
 
-Form with validation. 
 <a href="https://github.com/IlonaKuzmina/Sandra_uzdotais_MD.git">Form with validation.</a>
 <img src="https://user-images.githubusercontent.com/98387598/173136992-9d071e94-15b8-44a0-a640-9d4a7f52b375.png" alt="React" width="20">
 <br><br>
