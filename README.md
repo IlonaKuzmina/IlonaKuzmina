@@ -36,11 +36,14 @@ After almost ten years of work experience in managing employees, I’ve decided 
 <hr>
 
 
-<a href="https://github.com/IlonaKuzmina/22MD_Pokemon-API.git">Small Pokemon_API.</a>
-<img src="https://user-images.githubusercontent.com/98387598/173136992-9d071e94-15b8-44a0-a640-9d4a7f52b375.png" alt="React" width="20">
-<img src="https://user-images.githubusercontent.com/98387598/173137108-69358071-f159-4770-9688-794a1fbbd7ff.png" alt="Redux" width="20">
-<br><br>
-![Pokemon_API](https://user-images.githubusercontent.com/98387598/173154406-c8b46fd2-9f3b-44a0-baba-1c6568e5c045.gif)
+<a href="https://github.com/IlonaKuzmina/29MD_Joke-App_Angular.git">Add jokes and answers</a>
+<img src="https://user-images.githubusercontent.com/98387598/173137216-0735904f-0901-443b-8ab1-151bc76ee405.png" alt="Angular" width="20"> 
+<img src="https://user-images.githubusercontent.com/98387598/173136625-6c202712-1ad5-4ee8-b833-4697d3c08ac0.png" alt="JavaScript" width="20">
+<img src="https://user-images.githubusercontent.com/98387598/173136827-c4d608a6-a76e-46f5-889a-674d39e2b352.png" alt="TypeScript"  width="20"> 
+<img src="https://user-images.githubusercontent.com/98387598/173138225-9f3452ae-e7c3-4328-8571-297e34d5d38a.png" alt="CSS" width="20">
+<img src="https://user-images.githubusercontent.com/98387598/173138381-1947c5f5-4237-4332-ba71-8baf47189279.png" alt="HTML" width="20">
+<br>
+![Add_jokes_and_answers-Angular_1](https://user-images.githubusercontent.com/98387598/173851476-cc3a604c-2af0-4add-8e31-3509022a6f0c.gif)
 <hr>
 
 <a href="https://github.com/IlonaKuzmina/Sandra_uzdotais_MD.git">Form with validation.</a>
