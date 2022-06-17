@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ilona!
 #### I am frontend developer!
-After good experience in managing employees, I’ve decided to follow my passion, web development, and pursue a career as a front-end developer. During the time I spent working as a manager in different industries, I fully understood the wishes and needs of the employer, I’ve gained valuable skills a sense of high responsibility, accuracy, and the ability to make responsible decisions on my own. I don’t need over-control as I am self-motivated and result-oriented with a get-it-done, on-time, and high-quality product spirit.  I like to create beautiful and functional things.
+I am self-motivated and result-oriented with a get-it-done, on-time, and high-quality product spirit. I like to create beautiful and functional things.
 
 ### Languages and tools that I use:
 <br/><br/>
