@@ -22,7 +22,7 @@ I am self-motivated and result-oriented with a get-it-done, on-time, and high-qu
 ### My favorite projects: 
 
 
-### Name: <a href="https://hilarious-sunflower-6c97c5.netlify.app/">Planner app.</a>
+#### Name: <a href="https://hilarious-sunflower-6c97c5.netlify.app/">Planner app.</a>
 <a href="https://github.com/IlonaKuzmina/RPSLS_game-Angular">Repositorie</a>
 <img src="https://user-images.githubusercontent.com/98387598/173136284-09b4acb9-4295-414f-a2cd-9123b98ec909.png" width="20px" alt="VueJs">
 <img src="https://user-images.githubusercontent.com/98387598/173136625-6c202712-1ad5-4ee8-b833-4697d3c08ac0.png" alt="JavaScript" width="20">
