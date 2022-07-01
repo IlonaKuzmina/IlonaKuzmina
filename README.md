@@ -23,7 +23,7 @@ I am self-motivated and result-oriented with a get-it-done, on-time, and high-qu
 
 
 #### 1. Name: <a href="https://hilarious-sunflower-6c97c5.netlify.app/">Planner app.</a>
-<a href="https://github.com/IlonaKuzmina/RPSLS_game-Angular">Repositorie</a>
+<a href="https://github.com/IlonaKuzmina/RPSLS_game-Angular">Repositorie and used tools:</a>
 <img src="https://user-images.githubusercontent.com/98387598/173136284-09b4acb9-4295-414f-a2cd-9123b98ec909.png" width="20px" alt="VueJs">
 <img src="https://user-images.githubusercontent.com/98387598/173136625-6c202712-1ad5-4ee8-b833-4697d3c08ac0.png" alt="JavaScript" width="20">
 <img src="https://user-images.githubusercontent.com/98387598/173136827-c4d608a6-a76e-46f5-889a-674d39e2b352.png" alt="TypeScript"  width="20"> 
@@ -35,7 +35,7 @@ I am self-motivated and result-oriented with a get-it-done, on-time, and high-qu
 
 
 #### 2. Name: <a href="https://playful-snickerdoodle-7bd39f.netlify.app/">Game: ROCK, PAPER, SCISSORS, LIZARD, SPOCK</a>
-<a href="https://github.com/IlonaKuzmina/RPSLS_game-Angular">Repositorie</a>
+<a href="https://github.com/IlonaKuzmina/RPSLS_game-Angular">Repositorie and used tools:</a>
 <img src="https://user-images.githubusercontent.com/98387598/173137216-0735904f-0901-443b-8ab1-151bc76ee405.png" alt="Angular" width="20">
 <img src="https://user-images.githubusercontent.com/98387598/173136625-6c202712-1ad5-4ee8-b833-4697d3c08ac0.png" alt="JavaScript" width="20">
 <img src="https://user-images.githubusercontent.com/98387598/173136827-c4d608a6-a76e-46f5-889a-674d39e2b352.png" alt="TypeScript"  width="20"> 
