@@ -19,10 +19,21 @@ I am self-motivated and result-oriented with a get-it-done, on-time, and high-qu
 ### Contact Me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IlonaKuzmina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ilona-kuzmina//) 
 
-### My favorite projects: 
+### My latest projects: 
 
+#### 1. Name: <a href="https://dancing-chimera-2c9083.netlify.app">DesignSystem-InstagramUI</a>
+<a href="https://github.com/IlonaKuzmina/DesignSystem-InstagramUI">Repositorie and used tools:</a>
+<img src="https://user-images.githubusercontent.com/98387598/173137216-0735904f-0901-443b-8ab1-151bc76ee405.png" alt="Angular" width="20">
+<img src="https://user-images.githubusercontent.com/98387598/173136625-6c202712-1ad5-4ee8-b833-4697d3c08ac0.png" alt="JavaScript" width="20">
+<img src="https://user-images.githubusercontent.com/98387598/173136827-c4d608a6-a76e-46f5-889a-674d39e2b352.png" alt="TypeScript"  width="20"> 
+<img src="https://user-images.githubusercontent.com/98387598/173138225-9f3452ae-e7c3-4328-8571-297e34d5d38a.png" alt="CSS" width="20">
+<img src="https://user-images.githubusercontent.com/98387598/173138381-1947c5f5-4237-4332-ba71-8baf47189279.png" alt="HTML" width="20">
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/98387598/178838689-f8f1b1a6-e87a-48c7-815b-b7cf46512e8c.png" alt="HTML" width="600">
+<hr>
 
-#### 1. Name: <a href="https://hilarious-sunflower-6c97c5.netlify.app/">Planner app.</a>
+#### 2. Name: <a href="https://hilarious-sunflower-6c97c5.netlify.app/">Planner app.</a>
 <a href="https://github.com/IlonaKuzmina/RPSLS_game-Angular">Repositorie and used tools:</a>
 <img src="https://user-images.githubusercontent.com/98387598/173136284-09b4acb9-4295-414f-a2cd-9123b98ec909.png" width="20px" alt="VueJs">
 <img src="https://user-images.githubusercontent.com/98387598/173136625-6c202712-1ad5-4ee8-b833-4697d3c08ac0.png" alt="JavaScript" width="20">
@@ -32,9 +43,9 @@ I am self-motivated and result-oriented with a get-it-done, on-time, and high-qu
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/98387598/176861412-56b7cc92-0fc1-48d6-bf22-c64a793c6533.JPG" alt="HTML" width="600">
+<hr>
 
-
-#### 2. Name: <a href="https://playful-snickerdoodle-7bd39f.netlify.app/">Game: ROCK, PAPER, SCISSORS, LIZARD, SPOCK</a>
+#### 3. Name: <a href="https://playful-snickerdoodle-7bd39f.netlify.app/">Game: ROCK, PAPER, SCISSORS, LIZARD, SPOCK</a>
 <a href="https://github.com/IlonaKuzmina/RPSLS_game-Angular">Repositorie and used tools:</a>
 <img src="https://user-images.githubusercontent.com/98387598/173137216-0735904f-0901-443b-8ab1-151bc76ee405.png" alt="Angular" width="20">
 <img src="https://user-images.githubusercontent.com/98387598/173136625-6c202712-1ad5-4ee8-b833-4697d3c08ac0.png" alt="JavaScript" width="20">
@@ -45,8 +56,7 @@ I am self-motivated and result-oriented with a get-it-done, on-time, and high-qu
 ![RPSLS_game](https://user-images.githubusercontent.com/98387598/175939804-0953273a-3541-4e55-8fc2-de112da27c34.gif)
 <hr>
 
-
-#### 3. Name: <a href="https://github.com/IlonaKuzmina/9MD_Landing_page_ar_TS.git">Landingpage(reproduction)</a>
+#### 4. Name: <a href="https://github.com/IlonaKuzmina/9MD_Landing_page_ar_TS.git">Landingpage(reproduction)</a>
 <a href="https://github.com/IlonaKuzmina/9MD_Landing_page_ar_TS.git">Repositorie and used tools: </a>
 <img src="https://user-images.githubusercontent.com/98387598/173136625-6c202712-1ad5-4ee8-b833-4697d3c08ac0.png" alt="JavaScript" width="20">
 <img src="https://user-images.githubusercontent.com/98387598/173136827-c4d608a6-a76e-46f5-889a-674d39e2b352.png" alt="TypeScript"  width="20"> 
@@ -56,8 +66,7 @@ I am self-motivated and result-oriented with a get-it-done, on-time, and high-qu
 ![Landing_page_TS](https://user-images.githubusercontent.com/98387598/173151480-6106eebf-1a89-41c6-a58c-5df5c2c61dd0.gif)
 <hr>
 
-
-#### 4. Name: <a href="">Rick and Morty! Website using ROUTER and API.</a>
+#### 5. Name: <a href="">Rick and Morty! Website using ROUTER and API.</a>
 <a href="https://github.com/IlonaKuzmina/17MD_un_18MD_API.git">Repositorie and used tools:</a>
 <img src="https://user-images.githubusercontent.com/98387598/173136992-9d071e94-15b8-44a0-a640-9d4a7f52b375.png" alt="React" width="20">
 <img src="https://user-images.githubusercontent.com/98387598/173136625-6c202712-1ad5-4ee8-b833-4697d3c08ac0.png" alt="JavaScript" width="20">
@@ -68,8 +77,7 @@ I am self-motivated and result-oriented with a get-it-done, on-time, and high-qu
 ![API_and_ROUTER](https://user-images.githubusercontent.com/98387598/173153160-d6d476c1-6b26-4aea-bef6-aa27f78ef5f3.gif)
 <hr>
 
-
-#### 5. Name: <a href="">Add jokes and answers</a>
+#### 6. Name: <a href="">Add jokes and answers</a>
 <a href="https://github.com/IlonaKuzmina/29MD_Joke-App_Angular.git">Repositorie and used tools:</a>
 <img src="https://user-images.githubusercontent.com/98387598/173137216-0735904f-0901-443b-8ab1-151bc76ee405.png" alt="Angular" width="20"> 
 <img src="https://user-images.githubusercontent.com/98387598/173136625-6c202712-1ad5-4ee8-b833-4697d3c08ac0.png" alt="JavaScript" width="20">
@@ -78,13 +86,3 @@ I am self-motivated and result-oriented with a get-it-done, on-time, and high-qu
 <img src="https://user-images.githubusercontent.com/98387598/173138381-1947c5f5-4237-4332-ba71-8baf47189279.png" alt="HTML" width="20">
 <br>
 ![Add_jokes_and_answers-Angular_1](https://user-images.githubusercontent.com/98387598/173851476-cc3a604c-2af0-4add-8e31-3509022a6f0c.gif)
-<hr>
-
-
-#### 6. Name: <a href="">Form with validation.</a>
-<a href="https://github.com/IlonaKuzmina/Sandra_uzdotais_MD.git">Repositorie and used tools:</a>
-<img src="https://user-images.githubusercontent.com/98387598/173136992-9d071e94-15b8-44a0-a640-9d4a7f52b375.png" alt="React" width="20">
-<br><br>
-![form_with_validation](https://user-images.githubusercontent.com/98387598/173155481-7f8c56be-74cc-4a67-891d-10449d3de3f9.gif)
-
-
