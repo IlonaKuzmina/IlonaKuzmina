@@ -12,7 +12,7 @@ I am self-motivated and result-oriented with a get-it-done, on-time, and high-qu
 
 ### My latest projects: 
 
-#### 1. Name: <a href="https://dancing-chimera-2c9083.netlify.app">DesignSystem-InstagramUI</a>
+#### 1. Name: <a href="https://designsystem-instagramui.netlify.app">DesignSystem-InstagramUI</a>
 <a href="https://github.com/IlonaKuzmina/DesignSystem-InstagramUI">Repositorie and used tools:</a>
 <img src="https://user-images.githubusercontent.com/98387598/173137216-0735904f-0901-443b-8ab1-151bc76ee405.png" alt="Angular" width="20">
 <img src="https://user-images.githubusercontent.com/98387598/173136625-6c202712-1ad5-4ee8-b833-4697d3c08ac0.png" alt="JavaScript" width="20">
