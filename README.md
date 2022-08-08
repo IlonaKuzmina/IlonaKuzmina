@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Ilona!
 #### I am frontend developer!
 I am self-motivated and result-oriented with a get-it-done, on-time, and high-quality product spirit.
-Motto: create beautiful, adaptive and functional things.
+
+Motto: to create beautiful, adaptive and functional things.
 
 ### Languages and tools that I use
 
