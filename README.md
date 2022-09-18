@@ -14,7 +14,7 @@ Motto: to create beautiful, adaptive and functional things.
 
 ### My latest projects: 
 
-#### 1. Name: <a href="https://silly-kleicha-50d093.netlify.app/home">Findrtend Webflow</a>
+#### 1. Name: <a href="https://silly-kleicha-50d093.netlify.app/home">Findrtend Webflow (Responsive)</a>
 <a href="https://github.com/IlonaKuzmina/findrtend-webflow">Repositorie and used tools:</a>
 <img src="https://user-images.githubusercontent.com/98387598/173137216-0735904f-0901-443b-8ab1-151bc76ee405.png" alt="Angular" width="20">
 <img src="https://user-images.githubusercontent.com/98387598/173136827-c4d608a6-a76e-46f5-889a-674d39e2b352.png" alt="TypeScript"  width="20"> 
@@ -38,7 +38,7 @@ Motto: to create beautiful, adaptive and functional things.
 ![Currency_calculator](https://user-images.githubusercontent.com/98387598/190895836-91db57b6-7d30-47cc-afba-454b99066ead.gif)
 <hr>
 
-#### 3. Name: <a href="https://shoply_ui.surge.sh/">DesignSystem-Shoply_UI</a>
+#### 3. Name: <a href="https://shoply_ui.surge.sh/">DesignSystem-Shoply_UI (Responsive)</a>
 <a href="https://github.com/IlonaKuzmina/DesignSystem-ShoplyUI">Repositorie and used tools:</a>
 <img src="https://user-images.githubusercontent.com/98387598/173136992-9d071e94-15b8-44a0-a640-9d4a7f52b375.png" alt="React" width="20">
 <img src="https://user-images.githubusercontent.com/98387598/173137108-69358071-f159-4770-9688-794a1fbbd7ff.png" alt="Redux" width="20">
@@ -50,7 +50,7 @@ Motto: to create beautiful, adaptive and functional things.
 <img src="https://user-images.githubusercontent.com/98387598/186623044-fb789813-248f-4a7b-8168-6679fbf98b0d.JPG" alt="HTML" width="600">
 <hr>
 
-#### 4. Name: <a href="https://designsystem-instagramui.netlify.app">DesignSystem-InstagramUI</a>
+#### 4. Name: <a href="https://designsystem-instagramui.netlify.app">DesignSystem-InstagramUI (Responsive)</a>
 <a href="https://github.com/IlonaKuzmina/DesignSystem-InstagramUI">Repositorie and used tools:</a>
 <img src="https://user-images.githubusercontent.com/98387598/173137216-0735904f-0901-443b-8ab1-151bc76ee405.png" alt="Angular" width="20">
 <img src="https://user-images.githubusercontent.com/98387598/173136625-6c202712-1ad5-4ee8-b833-4697d3c08ac0.png" alt="JavaScript" width="20">
