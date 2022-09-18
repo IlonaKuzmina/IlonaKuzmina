@@ -15,7 +15,7 @@ Motto: to create beautiful, adaptive and functional things.
 ### My latest projects: 
 
 #### 1. Name: <a href="https://silly-kleicha-50d093.netlify.app/home">Findrtend Webflow</a>
-<a href="https://github.com/IlonaKuzmina/DesignSystem-ShoplyUI">Repositorie and used tools:</a>
+<a href="https://github.com/IlonaKuzmina/findrtend-webflow">Repositorie and used tools:</a>
 <img src="https://user-images.githubusercontent.com/98387598/173137216-0735904f-0901-443b-8ab1-151bc76ee405.png" alt="Angular" width="20">
 <img src="https://user-images.githubusercontent.com/98387598/173136827-c4d608a6-a76e-46f5-889a-674d39e2b352.png" alt="TypeScript"  width="20"> 
 <img src="https://user-images.githubusercontent.com/98387598/173138225-9f3452ae-e7c3-4328-8571-297e34d5d38a.png" alt="CSS" width="20">
@@ -27,7 +27,7 @@ Motto: to create beautiful, adaptive and functional things.
 <hr>
 
 #### 2. Name: <a href="">Currency converter with the possibility to add currency conversion fees</a>
-<a href="https://github.com/IlonaKuzmina/DesignSystem-ShoplyUI">Repositorie and used tools:</a>
+<a href="https://github.com/IlonaKuzmina/Currency-calculator/blob/master/README.md">Repositorie and used tools:</a>
 <img src="https://user-images.githubusercontent.com/98387598/173136992-9d071e94-15b8-44a0-a640-9d4a7f52b375.png" alt="React" width="20">
 <img src="https://user-images.githubusercontent.com/98387598/173137108-69358071-f159-4770-9688-794a1fbbd7ff.png" alt="Redux" width="20">
 <img src="https://user-images.githubusercontent.com/98387598/173136827-c4d608a6-a76e-46f5-889a-674d39e2b352.png" alt="TypeScript"  width="20"> 
