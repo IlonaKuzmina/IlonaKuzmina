@@ -62,29 +62,7 @@ Motto: to create beautiful, adaptive and functional things.
 <img src="https://user-images.githubusercontent.com/98387598/178838689-f8f1b1a6-e87a-48c7-815b-b7cf46512e8c.png" alt="HTML" width="600">
 <hr>
 
-#### 5. Name: <a href="https://hilarious-sunflower-6c97c5.netlify.app/">Planner app.</a>
-<a href="https://github.com/IlonaKuzmina/Planner-App_Vue.js">Repositorie and used tools:</a>
-<img src="https://user-images.githubusercontent.com/98387598/173136284-09b4acb9-4295-414f-a2cd-9123b98ec909.png" width="20px" alt="VueJs">
-<img src="https://user-images.githubusercontent.com/98387598/173136625-6c202712-1ad5-4ee8-b833-4697d3c08ac0.png" alt="JavaScript" width="20">
-<img src="https://user-images.githubusercontent.com/98387598/173136827-c4d608a6-a76e-46f5-889a-674d39e2b352.png" alt="TypeScript"  width="20"> 
-<img src="https://user-images.githubusercontent.com/98387598/173138225-9f3452ae-e7c3-4328-8571-297e34d5d38a.png" alt="CSS" width="20">
-<img src="https://user-images.githubusercontent.com/98387598/173138381-1947c5f5-4237-4332-ba71-8baf47189279.png" alt="HTML" width="20">
-<br>
-<br>
-<img src="https://user-images.githubusercontent.com/98387598/176861412-56b7cc92-0fc1-48d6-bf22-c64a793c6533.JPG" alt="HTML" width="600">
-<hr>
-
-#### 6. Name: <a href="https://github.com/IlonaKuzmina/9MD_Landing_page_ar_TS.git">Landingpage(reproduction)</a>
-<a href="https://github.com/IlonaKuzmina/9MD_Landing_page_ar_TS.git">Repositorie and used tools: </a>
-<img src="https://user-images.githubusercontent.com/98387598/173136625-6c202712-1ad5-4ee8-b833-4697d3c08ac0.png" alt="JavaScript" width="20">
-<img src="https://user-images.githubusercontent.com/98387598/173136827-c4d608a6-a76e-46f5-889a-674d39e2b352.png" alt="TypeScript"  width="20"> 
-<img src="https://user-images.githubusercontent.com/98387598/173138225-9f3452ae-e7c3-4328-8571-297e34d5d38a.png" alt="CSS" width="20">
-<img src="https://user-images.githubusercontent.com/98387598/173138381-1947c5f5-4237-4332-ba71-8baf47189279.png" alt="HTML" width="20">
-<br><br>
-![Landing_page_TS](https://user-images.githubusercontent.com/98387598/173151480-6106eebf-1a89-41c6-a58c-5df5c2c61dd0.gif)
-<hr>
-
-#### 7. Name: <a href="">Rick and Morty! Website using ROUTER and API.</a>
+#### 5. Name: <a href="">Rick and Morty! Website using ROUTER and API.</a>
 <a href="https://github.com/IlonaKuzmina/17MD_un_18MD_API.git">Repositorie and used tools:</a>
 <img src="https://user-images.githubusercontent.com/98387598/173136992-9d071e94-15b8-44a0-a640-9d4a7f52b375.png" alt="React" width="20">
 <img src="https://user-images.githubusercontent.com/98387598/173136625-6c202712-1ad5-4ee8-b833-4697d3c08ac0.png" alt="JavaScript" width="20">
